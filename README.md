@@ -1,5 +1,6 @@
-nano README.md
-```
+# pfsense-lab
+pfsense Firewall Configuration Lab
+
 Type this inside:
 ```
 # pfSense Firewall Lab
@@ -26,3 +27,5 @@ LAN (em1) → 192.168.1.1/24 (Internal)
 
 ## Screenshots
 See /screenshots folder
+=======
+
